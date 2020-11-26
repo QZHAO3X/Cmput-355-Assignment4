@@ -1,5 +1,5 @@
 # Cmput-355-Assignment4
-## The assignment repo is belong to Pikachu Group (Win2020, CMPUT355, ASSIGNEMNT40
+## The assignment repo is belong to Pikachu Group (Win2020, CMPUT355, ASSIGNEMNT4)
 Include a video guide and all the code for our work.
 **Please install pygame module.**
 
