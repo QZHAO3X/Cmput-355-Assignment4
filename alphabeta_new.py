@@ -36,7 +36,7 @@ def minmax(board, depth):
 def min_layer(board, depth, alpha, beta):
     v = evaluation(board)
     if depth == 0:
-        print(v)
+        #print(v)
         return v
     best = 1000000
     points = get_rest_position(board)  # get all points that are empty
@@ -62,7 +62,7 @@ def min_layer(board, depth, alpha, beta):
 def max_layer(board, depth, alpha, beta):
     v = evaluation(board)
     if depth == 0:
-        print(v)
+        #print(v)
         return v
     best = 0
     points = get_rest_position(board)
