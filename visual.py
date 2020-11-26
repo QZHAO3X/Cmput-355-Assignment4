@@ -126,7 +126,7 @@ def position_checker(coord):
             pygame.draw.circle(screen, black, stone_position['A1'], radius, width)
             initial_board[0][0] = b_stone  # Exchange the empty cell as black stone
             pygame.display.update()
-
+            # Check if black wins then game finished
             if calculation.winCheck(initial_board, "B"):
                 messagebox.showinfo('Result', 'Black wins!')
             else:
