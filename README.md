@@ -2,4 +2,4 @@
 The assignment repo for cmput 355 assignment4 in uofa Assignmnet 4 repo.
 Include a video guide and all the code for our work.
 Please install pygame module.
-Put all those five include font file into same directory
+Put all those five files include font file into same directory
